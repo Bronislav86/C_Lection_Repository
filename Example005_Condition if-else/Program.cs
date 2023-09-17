@@ -10,3 +10,4 @@ else
     Console.Write("Привет, ");
     Console.WriteLine(username);
 }
+// Закончил на 54:58 - задача с гирями
